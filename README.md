@@ -1,6 +1,6 @@
 # dio-serverless-api
 
-This is a simple CRUD serverless API built with Microsoft's Azure using Javascript. I was unable to access my student account to make the services available online, but it is functional.
+This is a simple CRUD serverless API built with Microsoft's Azure Functions using Javascript. I was unable to access my student account to make the services available online, but it is functional.
 
 ## Host
 
